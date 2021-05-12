@@ -4,5 +4,5 @@ This is an excellent recipe for wasabi tacos.
 - Wasabi (freshly made)
 - Poblano peppers
 - Chedder cheese
-- Cream cheese
+- Cream cheese or mayonnaise
 - Zatar
